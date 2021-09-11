@@ -1,6 +1,6 @@
 ---
 title: ECON1001E
-layout: template
+layout: default
 filename: ECON1001E.md
 --- 
 
