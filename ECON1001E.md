@@ -1,3 +1,9 @@
+---
+title: ECON1001E
+layout: template
+filename: ECON1001E.md
+--- 
+
 ## Welcome to Econ 1001E Tutorial Page
 
 ### Contact Information  
