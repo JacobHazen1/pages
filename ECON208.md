@@ -10,7 +10,8 @@ filename: ECON208.md
 
 ## Welcome to Econ 208 Tutorial Page
 
-
+Conferences: Tuesday 10:35 am - 11:25 am LEA 541
+Office Hours: Tuesday 1:50PM - 2:50 PM LEA 111E
 
 ### Contact Information 
 
