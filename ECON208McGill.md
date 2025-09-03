@@ -7,7 +7,7 @@ filename: ECON208McGill.md
 ## Welcome to the ECON 208 Tutorial Page
 
 ### Tutorial Details
-- **Conferences:** Tuesdays, 10:35 AM – 11:25 AM (LEA 541)  
+- **Conferences:** Tuesdays, 10:35 AM – 11:25 AM (SH680 395)  
 - **Office Hours:** Tuesdays, 1:50 PM – 2:50 PM (LEA 111E)  
 
 ### Contact Information
