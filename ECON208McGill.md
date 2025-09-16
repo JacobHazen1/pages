@@ -17,3 +17,5 @@ For urgent or immediate matters, you may contact me at:
 
 ### Tutorials
 Slides and additional materials will be posted here throughout the term.
+
+- [Conference 1 slides, Sept. 16 2025](https://github.com/JacobHazen1/pages/blob/main/class_assets/ECON208McGill/week1.pdf?raw=true)  
