@@ -13,7 +13,7 @@ filename: ECON208McGill.md
 ### Contact Information
 For questions about course material, please attend office hours.  
 For urgent or immediate matters, you may contact me at:  
-`jacobhazen [at] mail [dot] mcgill [dot] ca`  
+`jacob [dot] hazen [at] mail [dot] mcgill [dot] ca`  
 
 ### Tutorials
 Slides and additional materials will be posted here throughout the term.
