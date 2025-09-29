@@ -29,5 +29,6 @@ Slides and additional materials will be posted here throughout the term.
 
 - [Conference 1 slides, Supply and Demand, Sept. 16 2025](https://github.com/JacobHazen1/pages/blob/main/class_assets/ECON208McGill/week1.pdf?raw=true)  
 - [Conference 2 slides, Elasticity and Tax, Sept. 22 2025](https://github.com/JacobHazen1/pages/blob/main/class_assets/ECON208McGill/week2.pdf?raw=true)  
+- [Conference 3 slides, Price Controls and Market Efficiency, Sept. 29 2025](https://github.com/JacobHazen1/pages/blob/main/class_assets/ECON208McGill/week3.pdf?raw=true)  
 
 
